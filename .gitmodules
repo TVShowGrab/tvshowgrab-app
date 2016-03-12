@@ -1,0 +1,3 @@
+[submodule "lib/org/qtmob/material/wrapper"]
+	path = lib/org/qtmob/material/wrapper
+	url = https://github.com/maply/org-qtmob-material-wrapper
